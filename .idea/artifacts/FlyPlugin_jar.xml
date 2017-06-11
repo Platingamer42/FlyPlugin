@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlyPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlyPlugin_jar</output-path>
+    <root id="archive" name="FlyPlugin.jar">
+      <element id="module-output" name="FlyPlugin" />
+      <element id="extracted-dir" path="D:/SpigotAPI1.10.2/spigot-1.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

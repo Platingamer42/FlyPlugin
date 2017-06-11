@@ -1,0 +1,7 @@
+name: FlyPlugin
+main: de.platingamer42.FlyPlugin.Main
+version: 0.7
+commands:
+  fly:
+    usage: /fly
+    discription: Nutze /fly zum de-/aktiviern vom Fly-Mode, sofern du darfst...
